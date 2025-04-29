@@ -56,4 +56,4 @@ Feel free to fork, copy, or modify — just credit back if you find them helpful
 
 Have thoughts, feedback, or just want to say hi?
 
-Reach me on [LinkedIn](#) or visit my portfolio at [yourwebsite.com](#).
+Reach me on [LinkedIn](https://www.linkedin.com/in/maulanayogi/) or visit my portfolio at [yogi.papirus.id](https://yogi.papirus.id/).
